@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sofiane Maza - El Eulma, DZ 🇩🇿
+### Hi there 👋 I'm Sofiane Maza - Constantine, DZ 🇩🇿
 
 **Solidity Developer | Web3 Security Researcher**
 Building on Android with Termux 🔥
